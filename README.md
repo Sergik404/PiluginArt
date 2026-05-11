@@ -104,7 +104,7 @@
 <header>
   <h1>Роспись одежды вручную 🎨 </h1>
   <p>Создаю уникальные кастомные рисунки на футболках, худи, куртках и другой одежде. Каждый дизайн — единственный в мире.</p>
-  <a class="btn" href="#contact">Заказать работу</a>
+  <a class="btn" href="https://t.me/PilukinArt">Заказать работу</a>
 </header>
 
 <section>
@@ -139,7 +139,7 @@
   <h2>Оформить заказ</h2>
   <div class="contact">
     <p>Напиши мне в Telegram и обсудим идею</p>
-    <a class="btn" href="https://t.me/your_username" target="_blank">Написать в Telegram</a>
+    <a class="btn" href="https://t.me/PilukinArt" target="_blank">Заказать роспись в Telegram</a>
   </div>
 </section>
 
